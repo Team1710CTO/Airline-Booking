@@ -19,7 +19,7 @@ public class Main {
 		selection = Integer.valueOf(scanner.next());
 		
 		if(selection == 1) {
-			System.out.println(Flights.getPassengers(1)[0]);
+
 		} else if(selection == 2){
 			
 		} else {
