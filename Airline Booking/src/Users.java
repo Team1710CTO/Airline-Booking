@@ -1,4 +1,5 @@
 
 public class Users {
-	public String[][] users = {{"jhermanj", "herman1234"}};
+	//a user = (username, password)
+	public String[][] users = {{"jhermanj", "herman1234"}, {"imbeech", "..."}};
 }
